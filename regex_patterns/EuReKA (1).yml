@@ -1,0 +1,7 @@
+description: ''
+name: EuReKA
+pattern: (?<=^|[\s.-])EuReKA\b
+tags:
+- Release Group
+- Bluray
+tests: []

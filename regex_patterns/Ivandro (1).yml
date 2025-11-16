@@ -1,0 +1,7 @@
+description: ''
+name: Ivandro
+pattern: (?<=^|[\s.-])Ivandro\b
+tags:
+- Release Group
+- Bluray
+tests: []

@@ -1,0 +1,7 @@
+description: ''
+name: HDC
+pattern: (?<=^|[\s.-])HDC\b
+tags:
+- Release Group
+- Bluray
+tests: []

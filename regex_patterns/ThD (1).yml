@@ -1,0 +1,7 @@
+description: ''
+name: ThD
+pattern: (?<=^|[\s.-])ThD\b
+tags:
+- Release Group
+- Bluray
+tests: []

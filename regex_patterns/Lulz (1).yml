@@ -1,0 +1,7 @@
+description: ''
+name: Lulz
+pattern: (?<=^|[\s.-])Lulz\b
+tags:
+- Release Group
+- Bluray
+tests: []

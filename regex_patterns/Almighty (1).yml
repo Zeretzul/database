@@ -1,0 +1,7 @@
+description: ''
+name: Almighty
+pattern: (?<=^|[\s.-])Almighty\b
+tags:
+- Release Group
+- Anime
+tests: []

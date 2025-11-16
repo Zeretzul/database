@@ -1,0 +1,7 @@
+description: ''
+name: Skazhutin
+pattern: (?<=^|[\s.-])Skazhutin\b
+tags:
+- Release Group
+- Bluray
+tests: []

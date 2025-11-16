@@ -1,0 +1,7 @@
+description: ''
+name: RiCO
+pattern: (?<=^|[\s.-])RiCO\b
+tags:
+- Release Group
+- Bluray
+tests: []

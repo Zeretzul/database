@@ -1,0 +1,7 @@
+description: ''
+name: ROCiNANTE
+pattern: (?<=^|[\s.-])ROCiNANTE\b
+tags:
+- Release Group
+- Bluray
+tests: []

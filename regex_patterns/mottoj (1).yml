@@ -1,0 +1,7 @@
+description: ''
+name: mottoj
+pattern: (?<=^|[\s.-])mottoj\b
+tags:
+- Release Group
+- Anime
+tests: []

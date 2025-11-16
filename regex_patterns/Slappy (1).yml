@@ -1,0 +1,7 @@
+description: ''
+name: Slappy
+pattern: (?<=^|[\s.-])Slappy\b
+tags:
+- Release Group
+- Bluray
+tests: []

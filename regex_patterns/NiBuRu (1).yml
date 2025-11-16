@@ -1,0 +1,7 @@
+description: ''
+name: NiBuRu
+pattern: (?<=^|[\s.-])NiBuRu\b
+tags:
+- Release Group
+- Bluray
+tests: []

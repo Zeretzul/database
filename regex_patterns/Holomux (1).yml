@@ -1,0 +1,7 @@
+description: ''
+name: Holomux
+pattern: (?<=^|[\s.-])Holomux\b
+tags:
+- Release Group
+- Anime
+tests: []

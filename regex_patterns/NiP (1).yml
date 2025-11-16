@@ -1,0 +1,7 @@
+description: ''
+name: NiP
+pattern: (?<=^|[\s.-])NiP\b
+tags:
+- Release Group
+- Bluray
+tests: []

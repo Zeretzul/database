@@ -1,0 +1,7 @@
+description: ''
+name: MaG
+pattern: (?<=^|[\s.-])MaG\b
+tags:
+- Release Group
+- Bluray
+tests: []
